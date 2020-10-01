@@ -1,2 +1,1 @@
- hello-world
-jdfjidgifjiigjifjijgiujfu
+ hello world in c
